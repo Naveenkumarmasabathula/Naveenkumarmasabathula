@@ -1,21 +1,143 @@
-# 💫 About Me:
-🚀 Aspiring Full-Stack Developer | Mastering JavaScript, React, Node.js, Express, SQL & MongoDB | Passionate about building scalable, high-performance websites 
+# 👋 Hey, I'm Naveen Kumar Masabathula
 
+<div align="center">
+  
+### 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masabathulanaveenkumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenkumarmasabathula7@gmail.com) 
+*Building scalable web experiences that make a difference*
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naveenkumarmasabathula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Naveenkumarmasabathula&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumarmasabathula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masabathulanaveenkumar) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenkumarmasabathula7@gmail.com) &nbsp; ![Profile Views](https://visitcount.itsvg.in/api?id=Naveenkumarmasabathula&icon=2&color=6)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Naveenkumarmasabathula&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+```javascript
+const naveen = {
+    role: "Aspiring Full-Stack Developer",
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C"],
+    focus: ["Web Development", "Scalable Architecture", "Clean Code"],
+    currentlyLearning: "Advanced System Design & Cloud Technologies",
+    funFact: "I debug with console.log and I'm proud of it! 🐛"
+};
+```
+
+I'm passionate about transforming ideas into **high-performance, scalable web applications**. My journey in tech is driven by curiosity and a relentless pursuit of excellence. I love diving deep into **modern frameworks**, optimizing **backend systems**, and creating **intuitive user experiences**.
+
+**What drives me:**
+- 💡 Solving complex problems with elegant solutions
+- 🌱 Continuous learning and staying ahead of tech trends
+- 🤝 Collaborating on open-source projects
+- 🎨 Crafting pixel-perfect, responsive interfaces
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🖥️ Languages</b></summary>
+<br>
+
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![TypeScript](https://skillicons.dev/icons?i=ts) 
+![Python](https://skillicons.dev/icons?i=py) 
+![Java](https://skillicons.dev/icons?i=java) 
+![C](https://skillicons.dev/icons?i=c)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![React](https://skillicons.dev/icons?i=react) 
+![Next.js](https://skillicons.dev/icons?i=nextjs) 
+![HTML5](https://skillicons.dev/icons?i=html) 
+![CSS3](https://skillicons.dev/icons?i=css) 
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
+![Vite](https://skillicons.dev/icons?i=vite)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br>
+
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Express](https://skillicons.dev/icons?i=express) 
+![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br>
+
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![NPM](https://skillicons.dev/icons?i=npm) 
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+</details>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naveenkumarmasabathula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Naveenkumarmasabathula&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumarmasabathula&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumarmasabathula&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=Naveenkumarmasabathula&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 💭 Developer Wisdom
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a chat about tech!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masabathulanaveenkumar)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenkumarmasabathula7@gmail.com)
+
+### 💡 Open to:
+✅ Full-Stack Development Opportunities  
+✅ Freelance Projects  
+✅ Open Source Collaborations  
+✅ Tech Discussions & Mentorship
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for stopping by! Let's build something amazing together! 🚀**
+
+</div>
