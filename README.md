@@ -6,7 +6,7 @@
 
 *Building scalable web experiences that make a difference*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masabathulanaveenkumar) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenkumarmasabathula7@gmail.com) &nbsp; ![Profile Views](https://visitcount.itsvg.in/api?id=Naveenkumarmasabathula&icon=2&color=6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masabathulanaveenkumar) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenkumarmasabathula7@gmail.com) &nbsp;
 
 </div>
 
