@@ -1,264 +1,246 @@
-# 🎮 Developer Console
+<div align="center">
+
+# 🎮 WELCOME TO NAVEEN.EXE
+
+```text
+███████╗███╗   ██╗ █████╗ ██╗   ██╗███████╗███████╗███╗   ██╗
+██╔════╝████╗  ██║██╔══██╗██║   ██║██╔════╝██╔════╝████╗  ██║
+█████╗  ██╔██╗ ██║███████║██║   ██║█████╗  █████╗  ██╔██╗ ██║
+██╔══╝  ██║╚██╗██║██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║╚██╗██║
+███████╗██║ ╚████║██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║
+╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝
+```
+
+### 🚀 FULL STACK DEVELOPER | BUILDER | PROBLEM SOLVER
+
+</div>
+
+---
+
+# 🧭 Navigation
+
+| Section         | Jump                       |
+| --------------- | -------------------------- |
+| 🎮 Player Card  | [Go](#-player-card)        |
+| ⚔️ Skill Tree   | [Go](#️-skill-tree)        |
+| 🏆 Achievements | [Go](#-achievements)       |
+| 🚀 Missions     | [Go](#-active-missions)    |
+| 🌍 Guilds       | [Go](#-guild-memberships)  |
+| 🧪 Projects     | [Go](#-project-laboratory) |
+| 🎁 Secret Area  | [Go](#-secret-area)        |
+
+---
+
+# 🎮 Player Card
+
+```yaml
+Name: Naveen Kumar
+Class: Full Stack Developer
+Level: 21
+Location: Andhra Pradesh, India
+
+Guild:
+  - RGUKT Srikakulam
+  - Perplexity Campus Partner
+  - NSS Volunteer
+  - Yoga Club Executive Member
+
+Special Ability:
+  Build → Learn → Optimize → Repeat
+```
+
+---
+
+# ⚔️ Skill Tree
 
 <details open>
-<summary><b>🖥️ Launch Terminal</b></summary>
-
-```bash
-> whoami
-
-Naveen Kumar
-
-> role
-
-Full-Stack Developer
-
-> education
-
-B.Tech CSE '27 @ RGUKT Srikakulam
-
-> current_focus
-
-Building scalable web applications
-Learning System Design
-Mastering DSA
-Exploring Cloud Technologies
-
-> status
-
-🚀 Available for collaboration
-```
-
-</details>
-
----
-
-# 🗺️ Developer Journey
+<summary>🌐 Frontend Skills</summary>
 
 ```text
-2023 ──────── Started Web Development
-   │
-   ├── HTML • CSS • JavaScript
-   │
-2024 ──────── MERN Stack Development
-   │
-   ├── React
-   ├── Node.js
-   ├── MongoDB
-   │
-2025 ──────── Production Applications
-   │
-   ├── Next.js
-   ├── TypeScript
-   ├── SEO
-   │
-2026 ──────── Current Mission
-   │
-   ├── System Design
-   ├── Cloud
-   ├── Scalable Architectures
-   └── Open Source
+React            ■■■■■■■■■■ 95
+Next.js          ■■■■■■■■■■ 95
+Tailwind         ■■■■■■■■■□ 90
+JavaScript       ■■■■■■■■■□ 90
+TypeScript       ■■■■■■■■□□ 85
 ```
-
----
-
-# 🏆 Achievement Dashboard
-
-<table>
-<tr>
-<td align="center">
-
-### 🚀 Builder
-
-Building production-grade applications
-
-</td>
-
-<td align="center">
-
-### 🔥 Problem Solver
-
-Actively practicing DSA
-
-</td>
-
-<td align="center">
-
-### 🌱 Learner
-
-Continuous growth mindset
-
-</td>
-
-<td align="center">
-
-### 🤝 Community
-
-Perplexity Partner • NSS • Yoga Club
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚔️ Tech Battle Arena
-
-<table>
-<tr>
-<td width="50%">
-
-### Frontend
-
-```text
-React          ████████████ 95%
-Next.js        ████████████ 95%
-Tailwind       ███████████░ 90%
-JavaScript     ███████████░ 90%
-TypeScript     ██████████░░ 85%
-```
-
-</td>
-
-<td width="50%">
-
-### Backend
-
-```text
-Node.js        ███████████░ 90%
-Express.js     ██████████░░ 85%
-MongoDB        ██████████░░ 85%
-MySQL          █████████░░░ 80%
-REST APIs      ███████████░ 90%
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
-<details open>
-<summary><b>🌟 ScaleOxperts</b></summary>
-
-### Growth Consulting Platform
-
-⚡ Built with Next.js & TypeScript
-
-🎯 Conversion-focused architecture
-
-📈 SEO optimized
-
-🚀 Performance-driven design
 
 </details>
 
 <details>
-<summary><b>🔥 Miftech Solutions</b></summary>
+<summary>⚙️ Backend Skills</summary>
 
-### Enterprise Heat Pump Platform
+```text
+Node.js          ■■■■■■■■■□ 90
+Express.js       ■■■■■■■■□□ 85
+MongoDB          ■■■■■■■■□□ 85
+MySQL            ■■■■■■■□□□ 80
+REST APIs        ■■■■■■■■■□ 90
+```
 
-⚡ Dynamic product architecture
+</details>
 
-📱 Mobile-first experience
+<details>
+<summary>🧠 Software Engineering Skills</summary>
 
-🔍 SEO-ready implementation
-
-🚀 Production deployment
+```text
+Problem Solving  ■■■■■■■■■□ 90
+DSA              ■■■■■■■■□□ 85
+System Design    ■■■■■■□□□□ 65
+Cloud            ■■■■■□□□□□ 55
+```
 
 </details>
 
 ---
 
-# 🎯 Current Quests
+# 🏆 Achievements
 
+| Achievement                     | Status          |
+| ------------------------------- | --------------- |
+| 🚀 Built Full Stack Apps        | ✅ Unlocked      |
+| 🔥 Learned MERN Stack           | ✅ Unlocked      |
+| ⚡ Mastered Next.js Fundamentals | ✅ Unlocked      |
+| 🌱 Open Source Journey          | ✅ Unlocked      |
+| 🏹 System Design Master         | 🔒 In Progress  |
+| ☁️ Cloud Engineer               | 🔒 In Progress  |
+| 💼 Software Engineer Role       | 🎯 Active Quest |
+
+---
+
+# 🚀 Active Missions
+
+* [x] Learn JavaScript
 * [x] Learn React
-* [x] Build MERN Projects
-* [x] Master Next.js
-* [x] Deploy Production Apps
+* [x] Learn Node.js
+* [x] Build Full Stack Projects
+* [x] Learn Next.js
 * [ ] Master System Design
 * [ ] Learn AWS
 * [ ] Contribute to Major Open Source Projects
-* [ ] Build a SaaS Product
+* [ ] Build SaaS Product
 * [ ] Secure Software Engineering Internship
 
 ---
 
-# 🌌 Hidden Easter Eggs
+# 🌍 Guild Memberships
 
-<details>
-<summary>🔍 What am I currently learning?</summary>
+### 🔎 Perplexity Campus Partner
 
-```yaml
-System Design:
-  status: In Progress
+Promoting AI-powered search and productivity tools across campus.
 
-Cloud Computing:
-  status: In Progress
+### 🧘 Yoga Club Executive Member
 
-DSA:
-  status: Daily Practice
+Building leadership, discipline, and wellness.
 
-Open Source:
-  status: Active
+### 🤝 NSS Volunteer
+
+Contributing to community impact initiatives.
+
+### 🎤 Hackathons & Technical Events
+
+Active participant and volunteer.
+
+---
+
+# 🧪 Project Laboratory
+
+<details open>
+<summary>🚀 ScaleOxperts</summary>
+
+```diff
++ Next.js
++ TypeScript
++ Tailwind CSS
++ CRO Optimization
++ SEO Focused
 ```
 
 </details>
 
 <details>
-<summary>☕ Fun Facts</summary>
+<summary>🔥 Miftech Solutions</summary>
 
-* I enjoy debugging more than writing documentation.
-* I optimize things that nobody notices.
-* I can spend hours perfecting UI spacing.
-* I believe performance is a feature.
-* I treat every project as a learning opportunity.
+```diff
++ Enterprise Product Platform
++ Dynamic Routing
++ Product Architecture
++ SEO Ready
+```
 
 </details>
 
 <details>
-<summary>🚀 Future Vision</summary>
+<summary>⚡ Future SaaS Products</summary>
 
-Build products used by thousands of users while becoming a strong software engineer focused on scalability, performance, and real-world impact.
+```text
+STATUS: UNDER DEVELOPMENT
+```
 
 </details>
 
 ---
 
-# 🌍 Community Impact
+# 📡 Live System Status
 
-```text
-🔎 Campus Partner @ Perplexity
+```bash
+Developer Status: ONLINE
 
-🧘 Executive Member — Yoga Club
+Current Activity:
+> Building Projects
 
-🤝 NSS Volunteer
+Current Learning:
+> System Design
+> Cloud Technologies
 
-🎤 Hackathon Volunteer
-
-💡 Technology Enthusiast
-
-🚀 Open Source Learner
+Current Goal:
+> Become Exceptional Engineer
 ```
 
 ---
 
-# 🐍 Contribution Snake
+# 🎁 Secret Area
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<details>
+<summary>👀 Click if you're curious</summary>
 
----
-
-# 🎵 Developer Mode
-
-```text
-while(alive){
+```javascript
+while(true){
     learn();
     build();
     improve();
-    repeat();
 }
 ```
+
+</details>
+
+<details>
+<summary>🎯 Long-Term Vision</summary>
+
+Build scalable software used by thousands of people and become an engineer known for solving difficult problems.
+
+</details>
+
+<details>
+<summary>☕ Random Fact</summary>
+
+Sometimes I spend more time optimizing a component by 20ms than building the component itself.
+
+</details>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+### 🚀 NAVEEN.EXE RUNNING...
+
+```text
+[██████████████████████████] 100%
+```
+
+</div>
