@@ -1,166 +1,264 @@
-<div align="center">
+# 🎮 Developer Console
 
-# 👋 Hey, I'm Naveen Kumar
+<details open>
+<summary><b>🖥️ Launch Terminal</b></summary>
 
-### 💻 Full-Stack Developer • Builder • Problem Solver
+```bash
+> whoami
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C6FF,100:0072FF&text=Naveen%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%2727%20%7C%20Campus%20Partner%20@%20Perplexity&descAlignY=58"/>
+Naveen Kumar
 
-<p>
+> role
 
-<a href="mailto:naveenkumarmasabathula7@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Contact_Me-blue?style=for-the-badge"/>
-</a>
+Full-Stack Developer
 
-<a href="https://linkedin.com/in/masabathulanaveenkumar">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge"/>
-</a>
+> education
 
-</p>
+B.Tech CSE '27 @ RGUKT Srikakulam
 
-</div>
+> current_focus
 
----
+Building scalable web applications
+Learning System Design
+Mastering DSA
+Exploring Cloud Technologies
 
-## 🎮 Interactive Developer Card
+> status
 
-<div align="center">
-
-```text
-┌──────────────────────────────────────────┐
-│  👨‍💻 Naveen Kumar                        │
-├──────────────────────────────────────────┤
-│  Role      : Full-Stack Developer        │
-│  University: RGUKT Srikakulam            │
-│  Focus     : Next.js • MERN • DSA        │
-│  Learning  : System Design • Cloud       │
-│  Status    : Building cool things 🚀     │
-└──────────────────────────────────────────┘
+🚀 Available for collaboration
 ```
 
-</div>
+</details>
 
 ---
 
-## ⚡ Tech Universe
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,vercel&perline=8"/>
-
-</div>
-
----
-
-## 🚀 Developer Progress
+# 🗺️ Developer Journey
 
 ```text
-Frontend Engineering      ██████████░░ 90%
-Backend Development       █████████░░░ 85%
-Database Design           ████████░░░░ 80%
-System Design             ███████░░░░░ 70%
-Cloud Technologies        ██████░░░░░░ 60%
-Data Structures & Algo    █████████░░░ 85%
+2023 ──────── Started Web Development
+   │
+   ├── HTML • CSS • JavaScript
+   │
+2024 ──────── MERN Stack Development
+   │
+   ├── React
+   ├── Node.js
+   ├── MongoDB
+   │
+2025 ──────── Production Applications
+   │
+   ├── Next.js
+   ├── TypeScript
+   ├── SEO
+   │
+2026 ──────── Current Mission
+   │
+   ├── System Design
+   ├── Cloud
+   ├── Scalable Architectures
+   └── Open Source
 ```
 
 ---
 
-## 🌟 Featured Areas
+# 🏆 Achievement Dashboard
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center">
 
-### 🚀
+### 🚀 Builder
 
-Full Stack
-
-Building scalable web apps
+Building production-grade applications
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 🧠
+### 🔥 Problem Solver
 
-DSA
-
-Problem solving & optimization
+Actively practicing DSA
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### ⚡
+### 🌱 Learner
 
-Performance
-
-Fast & responsive systems
+Continuous growth mindset
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 🌍
+### 🤝 Community
 
-Community
-
-Open source & collaboration
+Perplexity Partner • NSS • Yoga Club
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## 🎯 Current Mission
+# ⚔️ Tech Battle Arena
 
-> Building production-ready applications with modern technologies while strengthening software engineering fundamentals.
+<table>
+<tr>
+<td width="50%">
+
+### Frontend
+
+```text
+React          ████████████ 95%
+Next.js        ████████████ 95%
+Tailwind       ███████████░ 90%
+JavaScript     ███████████░ 90%
+TypeScript     ██████████░░ 85%
+```
+
+</td>
+
+<td width="50%">
+
+### Backend
+
+```text
+Node.js        ███████████░ 90%
+Express.js     ██████████░░ 85%
+MongoDB        ██████████░░ 85%
+MySQL          █████████░░░ 80%
+REST APIs      ███████████░ 90%
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+# 🚀 Featured Projects
+
+<details open>
+<summary><b>🌟 ScaleOxperts</b></summary>
+
+### Growth Consulting Platform
+
+⚡ Built with Next.js & TypeScript
+
+🎯 Conversion-focused architecture
+
+📈 SEO optimized
+
+🚀 Performance-driven design
+
+</details>
+
+<details>
+<summary><b>🔥 Miftech Solutions</b></summary>
+
+### Enterprise Heat Pump Platform
+
+⚡ Dynamic product architecture
+
+📱 Mobile-first experience
+
+🔍 SEO-ready implementation
+
+🚀 Production deployment
+
+</details>
+
+---
+
+# 🎯 Current Quests
+
+* [x] Learn React
+* [x] Build MERN Projects
+* [x] Master Next.js
+* [x] Deploy Production Apps
+* [ ] Master System Design
+* [ ] Learn AWS
+* [ ] Contribute to Major Open Source Projects
+* [ ] Build a SaaS Product
+* [ ] Secure Software Engineering Internship
+
+---
+
+# 🌌 Hidden Easter Eggs
+
+<details>
+<summary>🔍 What am I currently learning?</summary>
+
+```yaml
+System Design:
+  status: In Progress
+
+Cloud Computing:
+  status: In Progress
+
+DSA:
+  status: Daily Practice
+
+Open Source:
+  status: Active
+```
+
+</details>
+
+<details>
+<summary>☕ Fun Facts</summary>
+
+* I enjoy debugging more than writing documentation.
+* I optimize things that nobody notices.
+* I can spend hours perfecting UI spacing.
+* I believe performance is a feature.
+* I treat every project as a learning opportunity.
+
+</details>
+
+<details>
+<summary>🚀 Future Vision</summary>
+
+Build products used by thousands of users while becoming a strong software engineer focused on scalability, performance, and real-world impact.
+
+</details>
+
+---
+
+# 🌍 Community Impact
+
+```text
+🔎 Campus Partner @ Perplexity
+
+🧘 Executive Member — Yoga Club
+
+🤝 NSS Volunteer
+
+🎤 Hackathon Volunteer
+
+💡 Technology Enthusiast
+
+🚀 Open Source Learner
+```
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
 
-## 🌌 Fun Facts
+# 🎵 Developer Mode
 
-<details>
-<summary>⚡ Click to reveal</summary>
-
-* 🔎 Campus Partner @ Perplexity
-* 🧘 Executive Member — Yoga Club
-* 🤝 NSS Volunteer
-* 🎤 Active in Hackathons & Tech Events
-* 🚀 Obsessed with building better products
-* ☕ Turning coffee into code since 2023
-
-</details>
-
-<details>
-<summary>🛠️ Current Focus</summary>
-
-* Advanced Next.js
-* System Design
-* Cloud Computing
-* Open Source Contributions
-* Building SaaS Products
-
-</details>
-
----
-
-<div align="center">
-
-### 🚀 Building • Learning • Shipping
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C6FF,100:0072FF"/>
-
-</div>
+```text
+while(alive){
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
