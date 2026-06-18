@@ -1,72 +1,48 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hey+👋,+I'm+Naveen+Kumar;Full-Stack+Developer;Building+Scalable+Web+Applications;CS+Undergrad+'27+@+RGUKT;Campus+Partner+@+Perplexity" />
+# 👋 Hey, I'm Naveen Kumar
 
-### 🚀 Full-Stack Developer • Open Source Enthusiast • Problem Solver
+### 💻 Full-Stack Developer • Builder • Problem Solver
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C6FF,100:0072FF&text=Naveen%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%2727%20%7C%20Campus%20Partner%20@%20Perplexity&descAlignY=58"/>
 
-<p align="center">
+<p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Naveen%20Kumar&fontSize=65&animation=fadeIn&fontAlignY=38"/>
+<a href="mailto:naveenkumarmasabathula7@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-Contact_Me-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/masabathulanaveenkumar">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge"/>
+</a>
 
 </p>
 
+</div>
+
 ---
 
-# 🌌 About Me
+## 🎮 Interactive Developer Card
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw3bHl5M3l5YjB5dDg0bTZsZ2l3Y2k1N3F2Y2h4M2w4MHBwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<div align="center">
 
-```typescript
-const naveen = {
-  role: "Full-Stack Developer",
-  education: "CS Undergrad '27 @ RGUKT",
-  
-  frontend: [
-    "React",
-    "Next.js",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js"
-  ],
-
-  database: [
-    "MongoDB",
-    "MySQL"
-  ],
-
-  currentlyLearning: [
-    "System Design",
-    "Cloud Computing",
-    "Advanced Backend Architecture"
-  ],
-
-  mission:
-    "Build products that solve real-world problems."
-};
+```text
+┌──────────────────────────────────────────┐
+│  👨‍💻 Naveen Kumar                        │
+├──────────────────────────────────────────┤
+│  Role      : Full-Stack Developer        │
+│  University: RGUKT Srikakulam            │
+│  Focus     : Next.js • MERN • DSA        │
+│  Learning  : System Design • Cloud       │
+│  Status    : Building cool things 🚀     │
+└──────────────────────────────────────────┘
 ```
 
-💻 Building modern web experiences with React & Next.js
-
-🚀 Passionate about scalable applications and clean architecture
-
-🔎 Campus Partner @ Perplexity
-
-🤝 Open Source Contributor
-
-🎤 Active in Hackathons & Tech Communities
-
-🧘 Executive Member — Yoga Club
-
-🌱 NSS Volunteer
+</div>
 
 ---
 
-# ⚡ Tech Universe
+## ⚡ Tech Universe
 
 <div align="center">
 
@@ -76,88 +52,75 @@ const naveen = {
 
 ---
 
-# 🌠 Featured Projects
+## 🚀 Developer Progress
+
+```text
+Frontend Engineering      ██████████░░ 90%
+Backend Development       █████████░░░ 85%
+Database Design           ████████░░░░ 80%
+System Design             ███████░░░░░ 70%
+Cloud Technologies        ██████░░░░░░ 60%
+Data Structures & Algo    █████████░░░ 85%
+```
+
+---
+
+## 🌟 Featured Areas
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🚀 ScaleOxperts
+### 🚀
 
-Growth-focused business consultancy platform.
+Full Stack
 
-**Tech Stack**
-
-* Next.js
-* TypeScript
-* Tailwind CSS
-* SEO Optimization
-
-**Highlights**
-
-* Performance-focused architecture
-* Conversion-optimized landing pages
-* Modern responsive UI
+Building scalable web apps
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### 🔥 Miftech Solutions
+### 🧠
 
-Enterprise heat pump solutions platform.
+DSA
 
-**Tech Stack**
-
-* Next.js
-* React
-* Tailwind
-* Responsive Design
-
-**Highlights**
-
-* Product management architecture
-* Dynamic routing
-* SEO-ready pages
+Problem solving & optimization
 
 </td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+Performance
+
+Fast & responsive systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌍
+
+Community
+
+Open source & collaboration
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Mission
 
-```text
-▰▰▰▰▰▰▰▰▰▱ 90%  Full-Stack Development
-▰▰▰▰▰▰▰▰▱▱ 80%  System Design
-▰▰▰▰▰▰▰▱▱▱ 70%  Cloud Computing
-▰▰▰▰▰▰▰▰▱▱ 80%  DSA & Problem Solving
-```
+> Building production-ready applications with modern technologies while strengthening software engineering fundamentals.
 
 ---
 
-# 🌍 Beyond Coding
-
-### 🔎 Campus Partner @ Perplexity
-
-Helping students discover AI-powered tools and next-generation search technologies.
-
-### 🤝 NSS Volunteer
-
-Contributing to social impact initiatives and community development programs.
-
-### 🧘 Yoga Club Executive Member
-
-Promoting discipline, wellness, and leadership.
-
-### 🚀 Builder Mindset
-
-Always experimenting with new technologies, frameworks, and ideas.
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 
@@ -167,28 +130,37 @@ Always experimenting with new technologies, frameworks, and ideas.
 
 ---
 
-# 🤝 Connect With Me
+## 🌌 Fun Facts
 
-<div align="center">
+<details>
+<summary>⚡ Click to reveal</summary>
 
-<a href="https://linkedin.com/in/masabathulanaveenkumar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+* 🔎 Campus Partner @ Perplexity
+* 🧘 Executive Member — Yoga Club
+* 🤝 NSS Volunteer
+* 🎤 Active in Hackathons & Tech Events
+* 🚀 Obsessed with building better products
+* ☕ Turning coffee into code since 2023
 
-<a href="mailto:naveenkumarmasabathula7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</details>
 
-</div>
+<details>
+<summary>🛠️ Current Focus</summary>
+
+* Advanced Next.js
+* System Design
+* Cloud Computing
+* Open Source Contributions
+* Building SaaS Products
+
+</details>
 
 ---
 
 <div align="center">
 
-### 🚀 Building. Learning. Shipping.
+### 🚀 Building • Learning • Shipping
 
-*"The best way to predict the future is to build it."*
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C6FF,100:0072FF"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
