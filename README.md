@@ -4,11 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;MERN+Stack+%7C+REST+APIs+%7C+Tailwind;DSA+%7C+Problem+Solving+%7C+System+Design;Building+scalable+software+solutions)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/masabathulanaveenkumar"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/-Resume-764ba2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/your-leetcode/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=333" alt="LeetCode"/></a>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=764ba2" alt="Profile views"/>
+<a href="mailto:naveenkumarmasabathula7@gmail.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/u/Naveen_CP/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=333" alt="LeetCode"/></a>
+<img src="https://komarev.com/ghpvc/?username=Naveenkumarmasabathula&style=for-the-badge&color=764ba2" alt="Profile views"/>
 
 </div>
 
