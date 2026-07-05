@@ -62,8 +62,7 @@ Guild:
 
 Special Ability:
   Build → Learn → Optimize → Repeat
-
----
+```
 
 # ⚔️ Skill Tree
 
