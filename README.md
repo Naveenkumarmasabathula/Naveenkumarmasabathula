@@ -1,25 +1,28 @@
 <div align="center">
 
-# 🎮 WELCOME TO NAVEEN.EXE
+  <a href="https://github.com/your-username"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Masabathula%20Naveen%20Kumar&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=52&descAlign=50" width="100%" alt="Header"/></a>
 
-```text
-███╗   ██╗ █████╗ ██╗   ██╗███████╗███████╗███╗   ██╗
-████╗  ██║██╔══██╗██║   ██║██╔════╝██╔════╝████╗  ██║
-██╔██╗ ██║███████║██║   ██║█████╗  █████╗  ██╔██╗ ██║
-██║╚██╗██║██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║╚██╗██║
-██║ ╚████║██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║
-╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;MERN+Stack+%7C+REST+APIs+%7C+Tailwind;DSA+%7C+Problem+Solving+%7C+System+Design;Building+scalable+software+solutions)](https://git.io/typing-svg)
 
-### 🚀 FULL STACK DEVELOPER | BUILDER | PROBLEM SOLVER
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="650" alt="Coding Animation" />
+<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/-Resume-764ba2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/u/your-leetcode/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=333" alt="LeetCode"/></a>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=764ba2" alt="Profile views"/>
+
 </div>
 
 ---
 
-# 🧭 Navigation
+# 🧭 Navigation & Core Status
 
-| Section         | Jump                       |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ Quest Map
+
+| Section          | Jump                        |
 | --------------- | -------------------------- |
 | 🎮 Player Card  | [Go](#-player-card)        |
 | ⚔️ Skill Tree   | [Go](#️-skill-tree)        |
@@ -29,6 +32,18 @@
 | 🧪 Projects     | [Go](#-project-laboratory) |
 | 🎁 Secret Area  | [Go](#-secret-area)        |
 
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=764BA2&center=true&vCenter=true&width=350&lines=%E2%9A%A1+Compiling+Runtime...;%F0%9F%92%BB+Executing+Naveen.exe;%F0%9F%94%A5+Status%3A+Optimizing..." alt="Status Typing SVG" />
+
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="100%" style="max-width:400px;" alt="Coding Animation" />
+
+</td>
+</tr>
+</table>
+
+---
 ---
 
 # 🎮 Player Card
@@ -47,7 +62,6 @@ Guild:
 
 Special Ability:
   Build → Learn → Optimize → Repeat
-```
 
 ---
 
